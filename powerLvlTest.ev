@@ -1,0 +1,15 @@
+00:00:30:002	c_powerlevel_in	?
+00:00:40:001	c_phase_set	1
+00:00:42:002	c_powerlevel_in	?
+00:00:42:004	c_phase_set	0
+00:00:42:008	c_powerlevel_in	?
+00:00:45:100	c_phase_set	1
+00:00:45:106	c_powerlevel_in	?
+00:00:46:104	c_powerlevel_in	?
+00:01:01:000 c_phase_set		1
+00:01:05:006 c_powerlevel_in		?
+00:01:11:007 c_powerlevel_in	?
+00:02:11:018 c_powerlevel_in	?
+00:04:11:007 c_powerlevel_in	?
+00:04:11:014 c_powerlevel_in	?
+00:05:11:020 c_powerlevel_in	?
